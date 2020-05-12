@@ -76,19 +76,17 @@ project still in development phase
 
 ## Installation
 
-https://dasamith.github.io/Employee-Summary/
+https://note-taker-ad.herokuapp.com
 
-    To Run the test script: npm run test
-    To run the template engine: node app.js
+start localhost:xxxx > npm start
 
 ## Screenshot
-NA
 
 ![Screenshot](image/Capture.JPG)
 ![Screenshot](image/CaptureNote.JPG)
 
 ## API Reference
-
+NA
 
 
 ## Tests
